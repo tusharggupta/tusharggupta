@@ -30,8 +30,8 @@ I am a passionate software developer with a keen interest in web development and
 - [LinkedIn](https://www.linkedin.com/in/tusharggupta/)
 
 ## 🔥 Recent Projects
-- [Chat Fusion](https://github.com/tusharggupta/project1) - A brief description of project 1.
-- [Task Flow](https://github.com/tusharggupta/project2) - A brief description of project 2.
+- [Chat Fusion](https://github.com/tusharggupta/chat-fusion) - FullStack Discord Clone: Next.js 13, React, Socket.io, Prisma, Tailwind, MySQL & TypeScript.
+- [Task Flow](https://github.com/tusharggupta/task-flow/) - FullStack Jira Clone - Next.js 14, React, TypeScript, Shadcn UI, Tailwind, Hono & Appwrite
 
 
 ## 🤝 Open to Collaborate On
